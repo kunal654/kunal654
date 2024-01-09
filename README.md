@@ -1,4 +1,4 @@
-SWETA-0708/README.md
+Kunal 654/README.md
 👋 Hi, I’m Kunal Gautam
 👀 I’m interested in ...CREATION OF NEW PROJECTS AND EXPLORE NEW PROJECTS
 🌱 I’m currently learning ...PYTHON
