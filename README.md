@@ -25,6 +25,14 @@
 
 - ⚡ Fun fact *- I built my first website clone using HTML and CSS and am now diving into full-stack development!*
 
+  ## Ohh!!! My Github Contributions are gone !
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kunal654/kunal654/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
