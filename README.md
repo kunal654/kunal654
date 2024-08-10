@@ -24,6 +24,33 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/kunal-gautam-2981b2292/](https://www.linkedin.com/in/kunal-gautam-2981b2292/)
 
 - ⚡ Fun fact *- I built my first website clone using HTML and CSS and am now diving into full-stack development!*
+# My Awesome Project
+
+![Build Status](https://img.shields.io/github/actions/workflow/status/kunal654/your-repo/ci.yml)
+![License](https://img.shields.io/github/license/kunal654/your-repo)
+![Version](https://img.shields.io/github/v/release/kunal654/your-repo)
+
+## Description
+
+A brief description of what this project does and its purpose.
+
+## Installation
+
+Instructions for installing and running the project.
+
+```bash
+# Clone this repository
+git clone https://github.com/kunal654/your-repo.git
+
+# Navigate into the directory
+cd your-repo
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the application
+python app.py
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
