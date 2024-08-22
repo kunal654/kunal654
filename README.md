@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on [Open Source Projects]((https://github.com/kunal654))
 
-- 🤝 I’m looking for help with [Voice Assistant Development]((https://github.com/kunal654/Voice-Assistant))
-
 - 👨‍💻 All of my projects are available at [https://github.com/kunal654](https://github.com/kunal654)
 
 - 📝 I regularly write articles on [https://medium.com/@kunalgautam489](https://medium.com/@kunalgautam489)
